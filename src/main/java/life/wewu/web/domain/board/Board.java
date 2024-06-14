@@ -32,5 +32,6 @@ public class Board {
 	private int views;				//��ȸ��
 	private int commentCnt;			//��� ��
 	private List<Comment> comment;//��� //
+	private boolean bookmarkFlag;
 	
 }
